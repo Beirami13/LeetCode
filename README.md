@@ -8,15 +8,15 @@ My solutions to LeetCode problems, written in Python.
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy       | 1      |
-| Medium     | 0      |
+| Easy       | 3      |
+| Medium     | 2      |
 | Hard       | 0      |
 
 ## Topics
 
 | Topic | Solved |
 |-------|:------:|
-| Arrays | 1 |
+| Arrays | 5 |
 | Strings | 0 |
 | Hash Table | 0 |
 | Two Pointers | 0 |
