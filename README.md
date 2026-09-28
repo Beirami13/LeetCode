@@ -9,14 +9,14 @@ My solutions to LeetCode problems, written in Python.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 3      |
-| Medium     | 2      |
+| Medium     | 3      |
 | Hard       | 0      |
 
 ## Topics
 
 | Topic | Solved |
 |-------|:------:|
-| Arrays | 5 |
+| Arrays | 6 |
 | Strings | 0 |
 | Hash Table | 0 |
 | Two Pointers | 0 |
