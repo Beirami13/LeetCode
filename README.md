@@ -10,13 +10,13 @@ My solutions to LeetCode problems, written in Python.
 |------------|:------:|
 | Easy       | 3      |
 | Medium     | 3      |
-| Hard       | 0      |
+| Hard       | 1      |
 
 ## Topics
 
 | Topic | Solved |
 |-------|:------:|
-| Arrays | 6 |
+| Arrays | 7 |
 | Strings | 0 |
 | Hash Table | 0 |
 | Two Pointers | 0 |
