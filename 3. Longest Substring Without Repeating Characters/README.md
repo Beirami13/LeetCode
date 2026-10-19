@@ -2,6 +2,7 @@
 
 **Difficulty:** Medium
 **Topic:** String, Hash Table, Sliding Window
+**Problem:** [Longest Substring — LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 ## Problem
 

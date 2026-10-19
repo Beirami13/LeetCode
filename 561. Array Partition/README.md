@@ -2,6 +2,7 @@
 
 **Difficulty:** Easy  
 **Topic:** Array, Sorting, Greedy
+**Problem:** [Array Partition — LeetCode](https://leetcode.com/problems/array-partition/)
 
 ## Problem
 

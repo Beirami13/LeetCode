@@ -2,6 +2,7 @@
 
 **Difficulty:** Easy  
 **Topic:** Array
+**Problem:** [Monotonic Array — LeetCode](https://leetcode.com/problems/monotonic-array/)
 
 ## Problem
 

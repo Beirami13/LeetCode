@@ -2,6 +2,7 @@
 
 **Difficulty:** Hard  
 **Topic:** Array, Greedy
+**Problem:** [Candy — LeetCode](https://leetcode.com/problems/candy/)
 
 ## Problem
 

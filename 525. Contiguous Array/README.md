@@ -2,6 +2,7 @@
 
 **Difficulty:** Medium  
 **Topic:** Array, Hash Table, Prefix Sum
+**Problem:** [Contiguous Array — LeetCode](https://leetcode.com/problems/contiguous-array/)
 
 ## Problem
 

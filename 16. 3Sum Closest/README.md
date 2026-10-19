@@ -2,6 +2,7 @@
 
 **Difficulty:** Medium
 **Topic:** Array, Sorting, Two Pointers
+**Problem:** [Three Sum — LeetCode](https://leetcode.com/problems/3sum-closest/description/)
 
 ## Problem
 
