@@ -4,7 +4,7 @@ My solutions to LeetCode problems, written in Python.
 
 ## Progress
 
-**Total:** 0
+**Total:** 7
 
 | Difficulty | Solved |
 |------------|:------:|
